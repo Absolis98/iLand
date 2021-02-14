@@ -1,5 +1,5 @@
 # iLand
-*Note: using Boostrap 3. Convert to BS4 after finished
+*Note: using Boostrap 3
 * Add Landing Page
 * Add iLands Page that lists all iLands
 
